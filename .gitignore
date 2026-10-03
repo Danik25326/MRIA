@@ -1,0 +1,6 @@
+.env
+queue/
+work/
+debug/
+__pycache__/
+.venv/
